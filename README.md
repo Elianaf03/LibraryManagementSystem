@@ -20,7 +20,7 @@ El sistema incluye un login con dos tipos de usuarios:
 ## 📸 Screenshots
 
 ### 🔐 Login
-![Login](Screenshots/1.Login.png)
+![Login](screenshots/1.Login.png) 
 ---
 
 ### 👨‍💼 Administrator / Administrador

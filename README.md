@@ -17,7 +17,10 @@ The system includes a login with two user roles:
 El sistema incluye un login con dos tipos de usuarios:
 - **Administrador**
 - **Socio**
+## 📸 Screenshots
 
+### 🔐 Login
+![Login](Screenshots/1.Login.png)
 ---
 
 ### 👨‍💼 Administrator / Administrador

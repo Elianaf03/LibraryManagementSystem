@@ -83,15 +83,35 @@ This structure helps keep the code clean, organized and easy to maintain.
 ## 📸 Screenshots
 
 ### 🔐 Login
-![Login](screenshots/1.Login.png) 
-### 📚 Books Management
+![Login](screenshots/1.Login.png)
+
+### 🧭 Administrator Dashboard
+![Admin Dashboard](screenshots/2.PresentacionAdministradores.png)
+
+### ✍️ Authors (CRUD)
+![Authors](screenshots/3.CRUDautores.png)
+
+### 👥 Users (CRUD)
+![Users](screenshots/4.CRUDusuarios.png)
+
+### 🗂 Categories (CRUD)
+![Categories](screenshots/5.CRUDcategorias.png)
+
+### 📚 Books (CRUD)
 ![Books](screenshots/6.CRUDlibros.png)
 
 ### 🔄 Loans
 ![Loans](screenshots/7.Prestamos.png)
 
-### 👤 Member View
+### 📋 Loan Details
+![Details](screenshots/8.Detalle.png)
+
+### 🧾 Loan Ticket
+![Ticket](screenshots/9.Tiquet.png)
+
+### 👤 Member Dashboard
 ![Member](screenshots/10.PresentacionSocio.png)
+
 ---
 
 ## 🚀 How to Run
